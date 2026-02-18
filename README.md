@@ -148,9 +148,9 @@ No external routing libraries used — heuristic implemented from scratch to kee
 
 ## Running the Notebook
 
-1. Upload or open `Mystique_SCP.ipynb` in Google Colab
-2. Share the `Mystique_Data` Google Sheet with your Colab account
-3. Run all cells — the authentication prompt will appear at cell 2
+1. Upload or open `Mystique_SCP_Code.ipynb` in Google Colab
+2. Share the `Raw_Data` Google Sheet with your Colab account
+3. Run all cells — the authentication prompt will appear at cell 2 if you mount Google drive like I did
 4. Outputs are saved as CSV in the working directory
 
 ---
