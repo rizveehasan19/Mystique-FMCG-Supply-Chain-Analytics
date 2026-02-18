@@ -17,7 +17,7 @@ Mystique distributes consumer goods from 2 warehouses (Northern and Southern) to
 ## Repository Structure
 
 ```
-├── Mystique_SCP.ipynb          # Main analysis notebook
+├── Mystique_SCP_Code.ipynb     # Main analysis notebook
 ├── outputs/
 │   ├── route_summary.csv       # Tier 1 daily route plan
 │   ├── inventory_parameters.csv # Safety stock, ROP, EOQ per DH
